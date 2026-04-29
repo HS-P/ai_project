@@ -1,0 +1,100 @@
+[
+  {
+    "tag": "rbf_C5.0_g0.05",
+    "config": {
+      "svm_type": "kernel",
+      "C": 5.0,
+      "kernel": "rbf",
+      "gamma": 0.05
+    },
+    "train_acc": 0.9856984887578326,
+    "n_wrong_train": 194,
+    "n_train": 13565,
+    "n_support_vectors": 1196,
+    "train_time_sec": 635.8
+  },
+  {
+    "tag": "rbf_C5.0_g0.1",
+    "config": {
+      "svm_type": "kernel",
+      "C": 5.0,
+      "kernel": "rbf",
+      "gamma": 0.1
+    },
+    "train_acc": 0.9876889052709178,
+    "n_wrong_train": 167,
+    "n_train": 13565,
+    "n_support_vectors": 1497,
+    "train_time_sec": 620.8
+  },
+  {
+    "tag": "rbf_C20.0_g0.1",
+    "config": {
+      "svm_type": "kernel",
+      "C": 20.0,
+      "kernel": "rbf",
+      "gamma": 0.1
+    },
+    "train_acc": 0.9892370070033174,
+    "n_wrong_train": 146,
+    "n_train": 13565,
+    "n_support_vectors": 2307,
+    "train_time_sec": 756.2
+  },
+  {
+    "tag": "rbf_C10.0_g0.1",
+    "config": {
+      "svm_type": "kernel",
+      "C": 10.0,
+      "kernel": "rbf",
+      "gamma": 0.1
+    },
+    "train_acc": 0.9882049391817177,
+    "n_wrong_train": 160,
+    "n_train": 13565,
+    "n_support_vectors": 1876,
+    "train_time_sec": 667.7
+  },
+  {
+    "tag": "rbf_C100.0_g0.1",
+    "config": {
+      "svm_type": "kernel",
+      "C": 100.0,
+      "kernel": "rbf",
+      "gamma": 0.1
+    },
+    "train_acc": 0.9908588278658312,
+    "n_wrong_train": 124,
+    "n_train": 13565,
+    "n_support_vectors": 1716,
+    "train_time_sec": 910.2
+  },
+  {
+    "tag": "rbf_C50.0_g0.1",
+    "config": {
+      "svm_type": "kernel",
+      "C": 50.0,
+      "kernel": "rbf",
+      "gamma": 0.1
+    },
+    "train_acc": 0.9898267600442314,
+    "n_wrong_train": 138,
+    "n_train": 13565,
+    "n_support_vectors": 4290,
+    "train_time_sec": 844.5
+  },
+  {
+    "tag": "linear_C10.0",
+    "config": {
+      "svm_type": "soft_margin",
+      "C": 10.0,
+      "kernel": "linear",
+      "gamma": 0.0
+    },
+    "train_acc": 0.972723921857722,
+    "n_wrong_train": 370,
+    "n_train": 13565,
+    "n_support_vectors": 11714,
+    "train_time_sec": 1286.1
+  }
+]

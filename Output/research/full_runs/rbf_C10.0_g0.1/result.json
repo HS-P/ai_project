@@ -1,0 +1,14 @@
+{
+  "tag": "rbf_C10.0_g0.1",
+  "config": {
+    "svm_type": "kernel",
+    "C": 10.0,
+    "kernel": "rbf",
+    "gamma": 0.1
+  },
+  "train_acc": 0.9882049391817177,
+  "n_wrong_train": 160,
+  "n_train": 13565,
+  "n_support_vectors": 1876,
+  "train_time_sec": 667.7
+}

@@ -1,0 +1,14 @@
+{
+  "tag": "linear_C10.0",
+  "config": {
+    "svm_type": "soft_margin",
+    "C": 10.0,
+    "kernel": "linear",
+    "gamma": 0.0
+  },
+  "train_acc": 0.972723921857722,
+  "n_wrong_train": 370,
+  "n_train": 13565,
+  "n_support_vectors": 11714,
+  "train_time_sec": 1286.1
+}

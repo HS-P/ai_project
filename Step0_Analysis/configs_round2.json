@@ -1,0 +1,15 @@
+[
+  {"svm_type": "kernel", "C": 5.0,   "kernel": "rbf", "gamma": 0.15},
+  {"svm_type": "kernel", "C": 5.0,   "kernel": "rbf", "gamma": 0.20},
+  {"svm_type": "kernel", "C": 10.0,  "kernel": "rbf", "gamma": 0.15},
+  {"svm_type": "kernel", "C": 10.0,  "kernel": "rbf", "gamma": 0.20},
+  {"svm_type": "kernel", "C": 20.0,  "kernel": "rbf", "gamma": 0.20},
+  {"svm_type": "kernel", "C": 50.0,  "kernel": "rbf", "gamma": 0.20},
+  {"svm_type": "kernel", "C": 2.0,  "kernel": "rbf", "gamma": 0.05},
+  {"svm_type": "kernel", "C": 3.0,  "kernel": "rbf", "gamma": 0.05},
+  {"svm_type": "kernel", "C": 8.0,  "kernel": "rbf", "gamma": 0.05},
+  {"svm_type": "kernel", "C": 5.0,  "kernel": "rbf", "gamma": 0.03},
+  {"svm_type": "kernel", "C": 5.0,  "kernel": "rbf", "gamma": 0.07},
+  {"svm_type": "kernel", "C": 10.0, "kernel": "rbf", "gamma": 0.05},
+  {"svm_type": "kernel", "C": 20.0, "kernel": "rbf", "gamma": 0.05}
+]
